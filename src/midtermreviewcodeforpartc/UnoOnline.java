@@ -12,7 +12,7 @@ import java.util.Scanner;
  * Takes in a user name and password and then
  * validates the password before creating a new user in the list
  * of possible users. To be used as the beginning code for MidtermReview C.
- * @author Fuwad Oladega 2023
+ * @author Fuwad Oladega lekan 20005
  */
 public class UnoOnline 
 {
